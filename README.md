@@ -53,3 +53,4 @@ Projet pédagogique réalisé à partir du cahier des charges fourni. Stack : PH
 - Déployer sur un hébergement HTTPS et modifier les identifiants par défaut.
 - Le suivi client authentifié et la gestion des commandes fournisseurs restent des extensions à développer.
 # test_web
+# test_web
